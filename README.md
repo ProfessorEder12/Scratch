@@ -1,0 +1,2 @@
+# Scratch
+Projeto tradutor
